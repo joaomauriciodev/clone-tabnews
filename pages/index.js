@@ -1,10 +1,7 @@
+import styles from "./pages/styles.css";
+
 function Home() {
-  return (
-    <div>
-      <h1>New Commit</h1>
-      <p>Teste de Deploy</p>
-    </div>
-  );
+  return <div id="mensagem">Beatriz, eu te amo muito.</div>;
 }
 
 export default Home;

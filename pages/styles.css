@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0; /* Cor de fundo da página */
+}
+#mensagem {
+  font-size: 24px;
+  text-align: center;
+  color: #333; /* Cor do texto */
+}
